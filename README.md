@@ -58,6 +58,34 @@ Tela de login com acesso ao menu de recuperação de senhas, homepage com acesso
 
 ##Exibição
 
+-Tela de Login:
+
+<img width="376" height="731" alt="Login" src="https://github.com/user-attachments/assets/ae716d5f-f0bf-4bde-8a53-d4ab1038eee7" />
+
+-Tela de Recuperação de acesso:
+
+<img width="359" height="576" alt="Recuperação" src="https://github.com/user-attachments/assets/1eb9d66c-728c-4d9e-84c2-25d1194e6b3f" />
+
+-Tela Homepage:
+
+<img width="375" height="707" alt="Homepage" src="https://github.com/user-attachments/assets/fd4b4996-bf88-4391-aa5c-639c32a24e42" />
+
+-Tela de configuração:
+
+<img width="368" height="589" alt="Configurações" src="https://github.com/user-attachments/assets/3c0f1896-775e-415d-8a68-2fcc5ef54924" />
+
+-Tela de cadastro do cliente:
+
 <img width="365" height="535" alt="CadastroCliente" src="https://github.com/user-attachments/assets/5da0ea89-9188-41d6-b9d0-e1958101c8cd" />
 
+-Tela de Lista dos clientes:
 
+<img width="350" height="455" alt="ListaCliente" src="https://github.com/user-attachments/assets/9e2faa72-1a3d-49cc-96fd-3703e69f502b" />
+
+-Tela do Relatório:
+
+<img width="374" height="569" alt="Relatório" src="https://github.com/user-attachments/assets/6e6d08eb-180d-4d70-a8b4-67129f5846fd" />
+
+Tela da mensagem pronta:
+
+<img width="373" height="666" alt="MensagemPronta" src="https://github.com/user-attachments/assets/5220dbad-fc0c-43b6-908b-07fa6dccd609" />
