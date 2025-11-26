@@ -20,7 +20,7 @@ API do Whatsapp
 
 ├──/navigation
 
-   └──AppNavigator.js
+         └──AppNavigator.js
  
 ├──/screens
 
