@@ -15,6 +15,7 @@ banco de dados firebase,
 API do Whatsapp
 
 ##estruturação das pastas
+
 /src
 ├──/navigation
  └──AppNavigator.js
