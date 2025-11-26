@@ -17,8 +17,10 @@ API do Whatsapp
 ##estruturação das pastas
 
 /src
+
 ├──/navigation
  └──AppNavigator.js
+ 
 ├──/screens
   └──CadastroCliente.js
   └──Config.js
@@ -29,10 +31,13 @@ API do Whatsapp
   └──MensagemPronta.js
   └──Recuperacao.js
   └──Relatorio.js
+  
 ├──services
   └──firebaseService.js
+  
 ├──styles
   └──styles.js
+
 
 ##Funcionalidades do aplicativo
 
