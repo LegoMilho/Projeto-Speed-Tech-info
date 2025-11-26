@@ -58,19 +58,5 @@ Tela de login com acesso ao menu de recuperação de senhas, homepage com acesso
 
 ##Exibição
 
-![Tela Login](./Imagens Projeto/Login.png)
 
-![Homepage](./Imagens Projeto/Homepage.png)
-
-![Cadastro de Clientes](./Imagens Projeto/CadastroCliente.png)
-
-![Lista de clientes](./Imagens Projeto/ListaCliente.png)
-
-![Mensagem pronta](./Imagens Projeto/MensagemPronta.png)
-
-![tela de configurações](./Imagens Projeto/Configurações.png)
-
-![Tela de criação de relatório](./Imagens Projeto/Relatório.png)
-
-![Tela de recuperação](./Imagens Projeto/Recuperação.png)
 
