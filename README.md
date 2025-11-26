@@ -58,5 +58,6 @@ Tela de login com acesso ao menu de recuperação de senhas, homepage com acesso
 
 ##Exibição
 
+<img width="365" height="535" alt="CadastroCliente" src="https://github.com/user-attachments/assets/5da0ea89-9188-41d6-b9d0-e1958101c8cd" />
 
 
