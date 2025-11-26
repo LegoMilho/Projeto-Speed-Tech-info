@@ -89,3 +89,14 @@ Tela de login com acesso ao menu de recuperação de senhas, homepage com acesso
 Tela da mensagem pronta:
 
 <img width="373" height="666" alt="MensagemPronta" src="https://github.com/user-attachments/assets/5220dbad-fc0c-43b6-908b-07fa6dccd609" />
+
+
+##Autores
+
+Gabriel Freire Moreira
+
+Yuri dos Reis da Silva
+
+Alex Albuquerque Monteiro Santos
+
+Guilherme Santos Dutra
