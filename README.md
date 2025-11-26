@@ -20,36 +20,36 @@ API do Whatsapp
 
 ├──/navigation
 
- └──AppNavigator.js
+   └──AppNavigator.js
  
 ├──/screens
 
-  └──CadastroCliente.js
+    └──CadastroCliente.js
   
-  └──Config.js
+    └──Config.js
   
-  └──EditarCliente.js
+    └──EditarCliente.js
   
-  └──Home.js
+    └──Home.js
   
-  └──ListaClientes.js
+    └──ListaClientes.js
   
-  └──Login.js
+    └──Login.js
   
-  └──MensagemPronta.js
+    └──MensagemPronta.js
   
-  └──Recuperacao.js
+    └──Recuperacao.js
   
-  └──Relatorio.js
+    └──Relatorio.js
   
   
 ├──services
 
-  └──firebaseService.js
+    └──firebaseService.js
   
 ├──styles
 
-  └──styles.js
+    └──styles.js
 
 
 ##Funcionalidades do aplicativo
