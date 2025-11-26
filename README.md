@@ -19,23 +19,36 @@ API do Whatsapp
 /src
 
 ├──/navigation
+
  └──AppNavigator.js
  
 ├──/screens
+
   └──CadastroCliente.js
+  
   └──Config.js
+  
   └──EditarCliente.js
+  
   └──Home.js
+  
   └──ListaClientes.js
+  
   └──Login.js
+  
   └──MensagemPronta.js
+  
   └──Recuperacao.js
+  
   └──Relatorio.js
   
+  
 ├──services
+
   └──firebaseService.js
   
 ├──styles
+
   └──styles.js
 
 
